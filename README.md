@@ -1,6 +1,6 @@
 ﻿# Phong-Shader
 
- Implimentation of phong shading with ambient, diffuse , and secular
+ Implimentation of phong shading with ambient, diffuse , and specular
  the dependencies needed were too large for github, if you want to recreate this
  you will need stb, glad, glm, imgui and imgui-master(both optional), and KHR
  additionally - glfw3.lib 
